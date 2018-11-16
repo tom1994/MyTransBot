@@ -9,8 +9,6 @@ Now，you can use it just type **@my_trans_bot** in your message box, and then i
 
 ## Setup
 
-------
-
 Just install [py_translator](https://github.com/markolofsen/py_translator) and [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI).
 
 ```bash
@@ -21,8 +19,6 @@ $ pip install pyTelegramBotAPI
 and change the TOKEN in `bot/main.py` to your own bot's. How to create a new bot, refer to [Bots Introduction](https://core.telegram.org/bots#3-how-do-i-create-a-bot).
 
 ## Run it!
-
-------
 
 ```shell
 $ cd ./bot
